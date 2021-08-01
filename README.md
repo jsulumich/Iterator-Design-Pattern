@@ -1,4 +1,6 @@
 # Iterator-Design-Pattern
 A small program built using the iterator design pattern
 
-![Demo](https://github.com/jsulumich/Iterator-Design-Pattern/blob/master/Screenshot_1.jpg)
+![Class diagram](https://github.com/jsulumich/Iterator-Design-Pattern/blob/master/IteratorDemo/Images/Class%20Model%202.pdf)
+
+![Demo](https://github.com/jsulumich/Iterator-Design-Pattern/blob/master/IteratorDemo/Images/Demo.jpg)
